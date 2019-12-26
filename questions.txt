@@ -18,7 +18,8 @@ Consider ΔABD such that angle ADB = 20° and C is a point on BD such that AB=AC
 (B) 40°
 (C) 45°
 (D) 60°
-If the length and breadth of a rectangle are increased by a% and b% respectively, then the area will be increased by b+2ab/100)%
+If the length and breadth of a rectangle are increased by a% and b% respectively, then the area will be increased by
+b+2ab/100)%
 (B) (a+b+2ab/100)%
 (C) (a+b+ab/100)%
 b+ab/100)%
@@ -167,12 +168,12 @@ If √5 = 2.24 and √6 = 2.45, then the value of (√2/√3)+(√5/√6)=
 (B) 1.57
 (C) 1.73
 (D) 1.75
-(16)0.16x(16)0.04x(2)0.2 is equal to
+(16)^0.16*(16)^0.04*(2)^0.2 is equal to
 (A) 1
 (B) 2
 (C) 4
 (D) 16
-If 257.5 x 52.5 / 1251.5 = 5x, then the value of ‘x’ is
+If 25^7.5 x 5^2.5 / 125^1.5 = 5^x, then the value of ‘x’ is
 (A) 16
 (B) 17.5
 (C) 8.5
