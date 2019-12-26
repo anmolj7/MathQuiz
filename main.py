@@ -58,6 +58,7 @@ class App:
         self.create_groups(N)
 
         self.app = tk.Tk()
+        self.app.title("MATH QUIZ!")
         self.question = tk.StringVar()
         self.curr_ques_str = tk.StringVar()
         self.opt_selected = tk.IntVar()
@@ -97,10 +98,10 @@ class App:
                                       f"The Correct Answer is: {self.Questions[self.rand_questions[self.curr_ques]][self.get_curr_ans() - 1]}")
             else:
                 tkMessageBox.showinfo("Correct Answer!", "The Chosen opton is correct.")
-                self.Groups[self.group_name.get()] += 1
+                self.Groups[self.group_name.get()] += self.curr_marks
             self.opt_selected.set(None)
             self.group_name.set("")
-            self.curr_ques += self.curr_marks
+            self.curr_ques += 1
             self.start()
         else:
             tkMessageBox.showinfo("Error", "Please select a group before proceeding.")
